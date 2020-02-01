@@ -1,0 +1,7 @@
+name: VokeLogin
+author: Repize
+main: me.repizelogin.Main
+version: 1.0
+commands:
+    login:
+    register:
